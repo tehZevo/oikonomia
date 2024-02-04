@@ -4,6 +4,6 @@ plugins:
 - jekyll-remote-theme
 
 title: Οἰκονομία
-#description: TODO
+description: "Descripion test"
 
 show_downloads: false

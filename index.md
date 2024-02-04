@@ -3,6 +3,7 @@ title: Οἰκονομία
 ---
 
 # God
+## Trinity
 
 # (Hu)Man(ity)
 
