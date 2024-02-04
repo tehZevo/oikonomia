@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#logo {
+  display: none;
+}
+
+#banner {
+  right: 0;
+  border: 0;
+}
+
+.button.fork {
+  display: none;
+}
