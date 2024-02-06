@@ -14,6 +14,7 @@ title: Οἰκονομία
 - Mankind has two genders: male and female *(Genesis 1:27)*
 - The first written command from God to Man in the Bible is to procreate *(Genesis 1:28)*
 - Gained a sin nature due to the fall, which affects all aspects of our lives and inclines us towards disobedience of God *(Genesis 3)*
+
 ## Sin
 - The rightful punishment for sin is death *(Romans 6:23)*
 
@@ -24,6 +25,7 @@ title: Οἰκονομία
 
 # Marriage
 - Marriage is between one man and one woman *(Genesis 1:24, 1 Corinthians 7:2)*
+
 ## Intimacy
 
 # Men
@@ -35,6 +37,7 @@ title: Οἰκονομία
 
 # Children
 - Children are a reward for a God-honoring man *(Psalm 127:3-5, Psalm 128:1-4)*
+
 ## New Life
 ## Raising Children
 - It is the responsibility of parents to Biblically raise their children *(Proverbs 22:6, Proverbs 23:13)*
